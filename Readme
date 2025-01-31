@@ -1,0 +1,22 @@
+# Phishing para captura de senhas do Facebook
+
+### Ferramentas
+
+- Kali Linux
+- setoolkit
+
+### Configurando o Phishing no Kali Linux
+
+- Acesso root: ``` sudo su ```
+- Iniciando o setoolkit: ``` setoolkit ```
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+- Método de ataque: ```Credential Harvester Attack Method ```
+- Método de ataque: ``` Site Cloner ```
+- Obtendo o endereço da máquina: ``` ifconfig ```
+- URL para clone: http://www.facebook.com
+
+### Resutados
+Mesmo após fazer todas as etapas acima,não obtive exito em conseguir a senha e o e-mail conforme o print anexado, não sei o que pode ter acontecido, mas o erro  está perdurando, 
+eu conseguindo achar o problema, atualizo e refaço o passo a passo. 
+![Alt text](./failpassword.JPG "Optional title")
